@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheSadPie
 - 👀 I’m here just lurking ...
 - 🎮 I’m currently studying game development
-- 📫 linktr.ee/genesio._
+
 
 <!---
 TheSadPie/TheSadPie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
