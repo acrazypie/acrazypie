@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @TheSadPie
 - 👀 I’m here just lurking ...
-- 🎮 I’m currently studying game development
-
-
-<!---
-TheSadPie/TheSadPie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎮 I’m currently studying game development 
+      at ITS-ICT Piemonte in Italy.
+Things may appear here but nothing serious... yet!
