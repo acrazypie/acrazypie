@@ -1,4 +1,4 @@
-- 👋 Ciao, I’m @TheSadPie
+- 👋 Ciao, I’m @Cheesecake
 - 🎮 I’m currently studying game development 
       at ITS-ICT Piemonte in Italy.
-- 📝 Things may appear here but nothing serious... yet!
+- 📝 Some random things may appear here ^-^
