@@ -1,22 +1,22 @@
 # 👋 Ciao, sono Elisa (@acrazypie)
 
 > “Head in the clouds…” ☁️  
-> Overconfident deluded trans nb nerd — questo sono io 😄
+> Overconfident deluded trans nb nerd — questa sono io 😄
 
 ---
 
 ## 🔍 Chi sono
 
 - 📍 Turin, Italy  
-- 💻 Amo *Python*, piccoli progetti indie e sperimentazioni creative  
+- 💻 Piccoli progetti indie e sperimentazioni creative  
 - 🧠 Sempre curiosa, apprendo per sbaglio ma con stile  
-- 🔗 Trovi il mio mondo anche qua: [Linktree](https://linktr.ee/gen3sio)
+- 🔗 Mi trovi anche qua: [Linktree](https://linktr.ee/gen3sio)
 
 ---
 
 ## 🚀 Cosa faccio
 
-Ecco alcuni dei progetti pinati:
+Ecco alcuni dei progetti pinnati:
 
 | Progetto | Descrizione | Tecnologie |
 |---|---|---|
@@ -25,14 +25,14 @@ Ecco alcuni dei progetti pinati:
 | **Space_Invaders_Clone** | Un piccolo clone di Space Invaders per imparare con pygame | Python, pygame |
 | **PyStuff** | Script vari & utility per uso personale (e divertimento) | Python |
 
-Altri repo in corso di sviluppo e idee sparse che prima o poi prendo e porto a termine.
+... e altre repo in corso di sviluppo e idee sparse che prima o poi prendo e porto a termine.
 
 ---
 
 ## 🌱 Skills / Tools
 
 - Linguaggi principali: **Python** (e sto cercando di espandere)  
-- Librerie / framework: pygame, vari moduli standard / esterni  
+- Librerie / framework: Flask, vari moduli standard / esterni  
 - Versioning & collaborazioni: Git, GitHub  
 - Tooling personale: editor/test, debugging, esperimenti
 
@@ -52,8 +52,7 @@ Altri repo in corso di sviluppo e idee sparse che prima o poi prendo e porto a t
 Se vuoi collaborare, suggerire qualcosa oppure solo dire ciao:
 
 - Telegram -> [acrazypie](https://t.me/acrazypie)
-- E-mail -> [genesio.elisa0@gmail.com](mailto:genesio.elisa0@gmail.com)
-- Github issues / pull requests  
+- E-mail -> [genesio.elisa0@gmail.com](mailto:genesio.elisa0@gmail.com) 
 
 
 ---
