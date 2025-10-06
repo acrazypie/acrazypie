@@ -23,7 +23,7 @@ Ecco alcuni dei progetti pinnati:
 | **CV** | Il mio curriculum lato GitHub, pubblico per chi vuole dare un occhio 👀 | HTML / CSS |
 | **EserciziCorsoPython** | Esercizi & mini-progetti dal corso Python, base → avanzato | Python |
 | **Space_Invaders_Clone** | Un piccolo clone di Space Invaders per imparare con pygame | Python, pygame |
-| **PyStuff** | Script vari & utility per uso personale (e divertimento) | Python |
+| **E-Commerce** | Un esempio di e-commerce creato con Flask e SQLAlchemy | Python, Flask, HTML/CSS |
 
 ... e altre repo in corso di sviluppo e idee sparse che prima o poi prendo e porto a termine.
 
