@@ -21,9 +21,9 @@ Ecco alcuni dei progetti pinnati:
 | Progetto | Descrizione | Tecnologie |
 |---|---|---|
 | **Sudoku-App** | Sudoku game, made using the py-sudoku package and tkinter.  | Python |
-| **attivita_ufo** | Gestione delle presenza per le attivita di UFO Saronno | Flask, SQLite, HTML/CSS |
+| **attivita_ufo** | Gestione delle presenza per le attivita di UFO Saronno | Flask, SQLite |
 | **AI-Prompt-API** | A REST API for sharing, browsing, and upvoting AI prompts | Flask, PostgreSQL, psycopg2 |
-| **E-Commerce** | Un esempio di e-commerce creato con Flask e SQLAlchemy | Flask, HTML/CSS |
+| **E-Commerce** | Un esempio di e-commerce creato con Flask e SQLAlchemy | Flask, SQLAlchemy |
 
 ... e altre repo in corso di sviluppo e idee sparse che prima o poi prendo e porto a termine.
 
