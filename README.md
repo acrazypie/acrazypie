@@ -20,10 +20,10 @@ Ecco alcuni dei progetti pinnati:
 
 | Progetto | Descrizione | Tecnologie |
 |---|---|---|
-| **CV** | Il mio curriculum lato GitHub, pubblico per chi vuole dare un occhio 👀 | HTML / CSS |
-| **EserciziCorsoPython** | Esercizi & mini-progetti dal corso Python, base → avanzato | Python |
-| **Space_Invaders_Clone** | Un piccolo clone di Space Invaders per imparare con pygame | Python, pygame |
-| **E-Commerce** | Un esempio di e-commerce creato con Flask e SQLAlchemy | Python, Flask, HTML/CSS |
+| **Sudoku-App** | Sudoku game, made using the py-sudoku package and tkinter.  | Python |
+| **attivita_ufo** | Gestione delle presenza per le attivita di UFO Saronno | Flask, SQLite, HTML/CSS |
+| **AI-Prompt-API** | A REST API for sharing, browsing, and upvoting AI prompts | Flask, PostgreSQL, psycopg2 |
+| **E-Commerce** | Un esempio di e-commerce creato con Flask e SQLAlchemy | Flask, HTML/CSS |
 
 ... e altre repo in corso di sviluppo e idee sparse che prima o poi prendo e porto a termine.
 
