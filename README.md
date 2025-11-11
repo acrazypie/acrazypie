@@ -2,9 +2,9 @@
 
 <br />
 
-overconfident deluded deramer and nerd
+*overconfident deluded deramer and nerd*
 
-**Aboout me**
+**About me**
 
 - 📍 Italy
 
