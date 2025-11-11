@@ -1,4 +1,4 @@
-<p align="center"><a href="https://egenesio.com"><img width="80%" alt="Ciao! I'mElisa I do things here and there" src="./assets/gh-header.png" /></a></p>
+<p align="center"><a href="https://egenesio.com"><img width="45%" alt="Ciao! I'mElisa I do things here and there" src="./assets/gh-header.png" /></a></p>
 
 <br />
 
